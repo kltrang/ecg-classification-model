@@ -2,7 +2,7 @@
 This repository contains MATLAB code covering the training, validation, and testing of an ECG classification neural network 
 model based on the GoogLeNet generalist neural network algorithm.
 
-This repository contains code created for the BME3053C final project.
+Please download main as a .zip as ECG_Classification_Model.mlx requires trainedModel.mat, CHF, and NSR file data to be in the same directory.
 
 **CHF folder:** Contains ECG data from the BIDMC Congestive Heart Failure (CHF) Database
 https://physionet.org/content/chfdb/1.0.0/
