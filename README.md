@@ -20,4 +20,4 @@ quantifying the accuracy of the trained neural network. Additionally, the single
 to generate their own scalogram by selecting one of the ECG .mat files for visualization of the scalogram and waveform and 
 classification of the signal.
 
-trainedModel.mat: contains the saved variable 'trainedNN' which is a DAGNetwork (neural network)
+**trainedModel.mat:** contains the saved variable 'trainedNN' which is a DAGNetwork (neural network)
